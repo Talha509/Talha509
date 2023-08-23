@@ -1,7 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">Do Good Have Good</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha509" alt="talha" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://elements-video-cover-images-0.imgix.net/files/6133ec22-bcfb-48b3-bdbf-228d54bae63f/inline_image_preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=cd2f70a81ce01dbbd96b3be08c949eca">
 - 🔭 I’m currently working on **Cyber Security Skills**
 
