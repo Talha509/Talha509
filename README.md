@@ -1,3 +1,4 @@
+![logo](https://w0.peakpx.com/wallpaper/934/978/HD-wallpaper-talha-with-names-talha-name-blue-neon-lights-happy-birtay-talha-popular-turkish-male-names-with-talha-name.jpg)
 <h1 align="center">I'm Talha
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻</h1>
 <h3 align="center">Do Good Have Good</h3>
