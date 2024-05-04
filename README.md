@@ -1,8 +1,6 @@
-![logo]()
-<h1 align="center">I'm Talha
+I'm Talha
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻</h1>
 <h3 align="center">Do Good Have Good</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/13MhSTF0RNjF4c/giphy.gif?cid=ecf05e47qq7kzgy4z8laups7zwxiau2dsc77oakfndo96k6v&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on **Cyber Security Skills**
 
 - 🌱 I’m currently learning **Python and C Languages**
